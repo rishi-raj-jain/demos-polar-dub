@@ -1,4 +1,4 @@
-![](../logo.svg)
+![](./logo.svg)
 
 # Polar × Dub Dashboard - Checkout Links Manager
 
@@ -16,6 +16,8 @@
 A client-side dashboard to manage Polar checkout links and create short URLs with Dub.
 
 ## Demo
+
+https://github.com/user-attachments/assets/fe7c1e11-ff77-4b87-93b4-b1ef396bc439
 
 ## One-click Deploy
 
