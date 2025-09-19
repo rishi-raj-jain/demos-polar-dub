@@ -1,0 +1,6 @@
+public/
+dist/
+.vercel/
+node_modules/
+bun.lockb
+.vercelignore
